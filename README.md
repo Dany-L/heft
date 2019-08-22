@@ -1,6 +1,6 @@
 # script to add information from XML to InDesign page
 skrip root folder is:
-'''win10: \Users\<username>\AppData\Roaming\Adobe\InDesign\Version 8.0\<locale>\Scripts\Scripts Panel'''
+```win10: \Users\<username>\AppData\Roaming\Adobe\InDesign\Version 8.0\<locale>\Scripts\Scripts Panel```
 
 after developing a script in that folder it can be executed over script panel (Window->Utilities->Scripts).
 To make skript run faster turn off Enable Redraw from the Scripts panel menu.
