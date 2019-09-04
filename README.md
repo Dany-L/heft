@@ -11,3 +11,10 @@ macOS: JavaScript, AppleScript
 
 in ExtendedScript Toolkit open object explorer to inspect the data structure of InDesign (Help -> Objectmodel F1)
 
+Error messages over
+'''alert("<message>")'''
+
+## saveToXml
+* set fileName (line: 2)
+* set pageNumber (line: 3)
+the textframes of the selected page will be written to an XML file, tag name refers to the layer name.
